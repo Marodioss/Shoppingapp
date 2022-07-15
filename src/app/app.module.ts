@@ -1,3 +1,4 @@
+import { IngredinetModule } from './shared/ingredinet.module';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
